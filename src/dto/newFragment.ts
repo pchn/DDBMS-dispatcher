@@ -1,7 +1,7 @@
 export class newFragmentRequestDto {
-    storingNodeId: number
+  storingNodeId: number
 }
 
 export class newFragmentResponseDto {
-    fragmentId: number
+  fragmentId: number
 }

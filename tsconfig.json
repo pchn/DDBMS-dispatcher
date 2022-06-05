@@ -1,13 +1,12 @@
 {
-  "compilerOptions": {
-    "experimentalDecorators": true,
-    "emitDecoratorMetadata": true,
-    "target": "es2017",
-    "module": "commonjs",
-    "moduleResolution": "Node",
-    "esModuleInterop": true,
-    "outDir": "dist",
-    "baseUrl": "."
+  compilerOptions: {
+    experimentalDecorators: true,
+    emitDecoratorMetadata: true,
+    target: 'es2017',
+    module: 'commonjs',
+    moduleResolution: 'Node',
+    esModuleInterop: true,
+    outDir: 'dist',
+    baseUrl: '.'
   }
 }
-

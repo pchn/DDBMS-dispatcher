@@ -1,7 +1,7 @@
 export class newNodeRequestDto {
-    ip: string
+  ip: string
 }
 
 export class newNodeResponseDto {
-    nodeId: number
+  nodeId: number
 }
