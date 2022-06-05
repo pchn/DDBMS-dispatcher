@@ -4,6 +4,6 @@ Dispatcher server that implements data redistribution algorithm in distributed D
 
 Start an app:
 
-```docker-compose up -d --build
+```docker-compose up -d --build```
 
 The container would be on port, specified in docker-compose.yml (9000 by default).
